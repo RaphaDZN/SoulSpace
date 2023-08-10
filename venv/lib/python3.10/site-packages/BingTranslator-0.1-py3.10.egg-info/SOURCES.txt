@@ -1,0 +1,10 @@
+README.rst
+setup.cfg
+setup.py
+BingTranslator/__init__.py
+BingTranslator.egg-info/PKG-INFO
+BingTranslator.egg-info/SOURCES.txt
+BingTranslator.egg-info/dependency_links.txt
+BingTranslator.egg-info/pbr.json
+BingTranslator.egg-info/requires.txt
+BingTranslator.egg-info/top_level.txt
