@@ -8,11 +8,11 @@ O SoulSpace é um versátil bot do Telegram projetado para trazer as maravilhas 
 
 - 📷 Imagens NASA APOD: Desfrute de imagens impressionantes do Astronomy Picture of the Day (APOD) da NASA diretamente na sua conversa do Telegram. Deixe-se inspirar pela beleza do universo com uma nova imagem deslumbrante todos os dias.
 
-- 📰 Notícias Astronômicas: Mantenha-se atualizado com as últimas descobertas e notícias astronômicas de todo o cosmos. O AstronomyBot fornece artigos de notícias selecionados, garantindo que você nunca perca um desenvolvimento emocionante no mundo da astronomia.
+- 📰 Notícias Astronômicas: Mantenha-se atualizado com as últimas descobertas e notícias astronômicas de todo o cosmos. O SoulSpace fornece artigos de notícias selecionados, garantindo que você nunca perca um desenvolvimento emocionante no mundo da astronomia.
 
-- 💫 Viagem no Tempo Pelas Estrelas: Explore o cosmos do passado solicitando imagens APOD de datas específicas. O AstronomyBot permite que você viaje de volta no tempo e testemunhe a beleza celestial que já brilhou nos céus.
+- 💫 Viagem no Tempo Pelas Estrelas: Explore o cosmos do passado solicitando imagens APOD de datas específicas. O SoulSpaceBot permite que você viaje de volta no tempo e testemunhe a beleza celestial que já brilhou nos céus.
 
-- 🌐 Interface Multilíngue: O AstronomyBot fala o seu idioma! Escolha entre as interfaces em inglês, português e espanhol, tornando conveniente para os usuários de diferentes regiões acessar e desfrutar das maravilhas do universo.
+- 🌐 Interface Multilíngue: O SoulSpace fala o seu idioma! Escolha entre as interfaces em inglês, português e espanhol, tornando conveniente para os usuários de diferentes regiões acessar e desfrutar das maravilhas do universo.
 
 
 
@@ -43,7 +43,7 @@ Para receber uma notícia astronômica atual basta utilizar "/news".
 
 ## Aprendizados 🚀
 
-Ao criar o AstronomyBot, mergulhei em um mundo de aprendizado em Python, APIs e JSONs. Cada linha de código me trouxe uma nova perspectiva, explorando as maravilhas da programação de maneira emocionante e pessoal.
+Ao criar o SoulSpaceBot, mergulhei em um mundo de aprendizado em Python, APIs e JSONs. Cada linha de código me trouxe uma nova perspectiva, explorando as maravilhas da programação de maneira emocionante e pessoal.
 
 Manipular APIs foi como descobrir um portal mágico para o espaço sideral, trazendo imagens incríveis da NASA diretamente para minha criação. A habilidade de decifrar JSONs me permitiu desvendar informações cósmicas e compartilhá-las de maneira única.
 
