@@ -1,16 +1,16 @@
 
-# 🪐 SoulSpace: Seu guia celestial 🔭
+# 🪐 SoulSpace: Seu guia sideral 🔭
 
-O SoulSpace é um versátil bot do Telegram projetado para trazer as maravilhas do espaço mais perto dos usuários. Com uma interface perfeita disponível em inglês, português e espanhol, o SoulSpace oferece uma experiência astronômica personalizada como nenhuma outra.
+O SoulSpace é um versátil bot do Telegram, projetado para aproximar dos uuários as maravilhas do espaço. Com interface perfeita disponível em português, inglês e espanhol, o SoulSpace oferece uma experiência astronômica personalizada como nenhuma outra.
 
 
 ## Funcionalidades ⚙️
 
 - 📷 Imagens NASA APOD: Desfrute de imagens impressionantes do Astronomy Picture of the Day (APOD) da NASA diretamente na sua conversa do Telegram. Deixe-se inspirar pela beleza do universo com uma nova imagem deslumbrante todos os dias.
 
-- 📰 Notícias Astronômicas: Mantenha-se atualizado com as últimas descobertas e notícias astronômicas de todo o cosmos. O SoulSpace fornece artigos de notícias selecionados, garantindo que você nunca perca um desenvolvimento emocionante no mundo da astronomia.
+- 📰 Notícias Astronômicas: Mantenha-se atualizado com as últimas descobertas e notícias astronômicas de todo o cosmos. O SoulSpace fornece artigos de notícias selecionados, garantindo que você nunca perca um desenvolvimento emocionante no mundo astronômico.
 
-- 💫 Viagem no Tempo Pelas Estrelas: Explore o cosmos do passado solicitando imagens APOD de datas específicas. O SoulSpaceBot permite que você viaje de volta no tempo e testemunhe a beleza celestial que já brilhou nos céus.
+- 💫 Viagem no Tempo Pelas Estrelas: Explore o cosmos do passado, solicitando imagens APOD de datas específicas. O SoulSpaceBot permite que você viaje de volta no tempo e testemunhe a beleza do universo.
 
 - 🌐 Interface Multilíngue: O SoulSpace fala o seu idioma! Escolha entre as interfaces em inglês, português e espanhol, tornando conveniente para os usuários de diferentes regiões acessar e desfrutar das maravilhas do universo.
 
